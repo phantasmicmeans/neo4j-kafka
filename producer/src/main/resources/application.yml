@@ -1,0 +1,8 @@
+spring:
+  kafka:
+    bootstrap-servers: 10.105.197.51:9092
+  data:
+    neo4j:
+      username: neo4j
+      password: tkdals12
+      uri: bolt://localhost:7687
